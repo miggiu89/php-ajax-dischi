@@ -22,7 +22,7 @@
 
 <!-- main -->
     <main>
-        <div class="container">
+        <div class="container" id="">
         <?php
             foreach ($database as $album){
         ?>
